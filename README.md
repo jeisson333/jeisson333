@@ -1,22 +1,24 @@
 <h1 align="center">Hola 👋, soy Jeisson Osorio</h1>
 <h3 align="center">Un apasionado desarrollador full stack de Colombia</h3>
 
+<p align="left"> <img src ="https://komarev.com/ghpvc/?username=jeisson333&label=Profile%20views&color=0e75b6&style=flat" alt="jeisson333" /> </p>
 
+<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=jeisson333" alt="jeisson333" />< /a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/ twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Cer03](https://github.com/MorasDeFresa /Cer03)
+- 🔭 Actualmente estoy trabajando en [Cer03](https://github.com/jeisson333 /Cer03)
 
-- 🔭 Actualmente estoy trabajando en [Dogs](https://github.com/jeisson333/PI-Dogs-main)
+- 👨‍💻 Uno de mis proyectos completos [Dogs](https://github.com/jeisson333/PI-Dogs-main)
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com /jeisson333](https://github.com/jeisson333)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github .com/jeisson333](https://github.com/jeisson333)
 
-- ⚡ Dato curioso **En mi tiempo libre, disfruto explorando nuevas tecnologías y contribuyendo a proyectos de código abierto destinados a generar un impacto positivo en la comunidad de desarrollo.**
+- ⚡ Dato curioso **En mi tiempo libre, disfruto explorando nuevas tecnologías y contribuyendo a proyectos de código abierto destinados a generar un impacto positivo en la comunidad de desarrollo. **
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/jeissonosorio97/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="/in/jeissonosorio97/" height="30" width="40" /></a>
-<a href="https://instagram.com/jf.osorio" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jf.osorio" height= "30" width="40" /></a>
+<a href="https://linkedin.com/in//in/jeissonosorio97/" target=" en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg " alt="/in/jeissonosorio97/" height="30" width="40" /></a>
+<a href="https://instagram.com/jf.osorio" target="blank">< img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jf.osorio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
