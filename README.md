@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jeisson Osorio</h1>
 <h3 align="center">Un apasionado desarrollador full stack de Colombia</h3>
 
-<p align="left"> <a href="https ://github.com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=jeisson333" alt="jeisson333" />< /a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/ twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
